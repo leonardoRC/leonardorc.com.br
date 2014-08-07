@@ -251,7 +251,7 @@
 					<div class="img_block">
 						<div class="hover_img">
 							<img class="img_block_bg" src="PNG/IMG_BLOCK_BG.PNG" />
-							<img class="portf_img" src="JPG/1.JPG" alt="" />
+							<img class="portf_img" src="JPG/" alt="" />
 							<span class="portfolio_zoom"><a href="JPG/1_2.JPG" rel="prettyPhoto[portfolio1]"></a></span>
 							<span class="portfolio_link"><a href="javascript:void(0);">View item</a></span>
 							<div class="item_description">
