@@ -507,7 +507,7 @@ a.servc_block {
 .exhib_cont:hover p {color:#f14833;
 }
 
-.exhib_p_top {margin-left:80px;
+.exhib_p_top {margin-left:401px;
 }
 
 .exhib_cont {
@@ -750,7 +750,7 @@ a.servc_block {
 }
 .img_block .portf_img {
 	position:absolute;
-	left:18px;
+	left:12px;
 	top:18px;
 	transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
